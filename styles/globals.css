@@ -32,7 +32,7 @@ code {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: linear-gradient(rgba(12, 81, 193, 0.5), rgba(16, 220, 141, 0.599));
+  background-image: linear-gradient(rgba(12, 81, 193, 0.5), rgba(16, 220, 141, 0.599));
 }
 
 .expired-notice {
