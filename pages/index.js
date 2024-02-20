@@ -4,7 +4,7 @@ import Footer from '@components/Footer'
 import CountdownTimer from 'CountdownTimer';
 
 export default function Home() {
-  const countDownDate = new Date("2023-10-03T23:58:00-07:00").getTime();
+  const countDownDate = new Date("2024-05-07T12:00:00-07:00").getTime();
   return (
     <div className="container">
       <Head>
